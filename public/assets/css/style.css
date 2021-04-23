@@ -5,7 +5,7 @@ body {
     color: #353535;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
-    background: #e6e6d4;
+    background: #ffffff;
 }
 
 a {
@@ -309,7 +309,7 @@ h2 {
 /**********************************/
 .bottom-bar {
     padding: 15px 0;
-    background: #e6e6d4;
+    background: #ffffff;
     margin-bottom: 30px;
 }
 
@@ -421,7 +421,7 @@ h2 {
     height: 100%;
     max-height: 400px;
     overflow: hidden;
-    background: #e6e6d4 !important;
+    background: #fff4ec!important;
 }
 
 .header .navbar-nav {
@@ -1991,7 +1991,7 @@ h1{
     position: relative;
     margin-bottom: 30px;
     padding: 30px 0;
-    background: #e6e6d4;
+    background: #ffffff;
 }
 
 .brand .brand-item {
@@ -2078,7 +2078,7 @@ h1{
     display: flex;
     align-items: center;
     flex-direction: row;
-    background: #e6e6d4;
+    background: #ffffff;
 }
 
 .review .review-img {
@@ -2222,7 +2222,7 @@ h1{
 .footer {
     position: relative;
     padding: 30px 0 0 0;
-    background: #e6e6d4;
+    background: #ffffff;
 }
 
 .footer .footer-widget {

@@ -44,15 +44,7 @@ class Products extends React.Component{
                                     </div>
                                 </div>
                             </div>
-                            <div class="navbar-nav ml-auto">
-                                <div class="nav-item dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">User Account</a>
-                                    <div class="dropdown-menu">
-                                        <a href="#" class="dropdown-item">Login</a>
-                                        <a href="#" class="dropdown-item">Register</a>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </nav>
                 </div>
@@ -495,16 +487,7 @@ class Products extends React.Component{
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-widget">
-                            <h2>Company Info</h2>
-                            <ul>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms & Condition</a></li>
-                            </ul>
-                        </div>
-                    </div>
+                    
 
                     
                 </div>

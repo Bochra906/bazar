@@ -103,27 +103,19 @@ class Home extends React.Component{
                                 <li class="nav-item">
                                     <a class="nav-link" href="#"><i class="fa fa-mobile-alt"></i>Food</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#"><i class="fa fa-mobile-alt"></i>Gadgets</a>
-                                </li>
+                                
                                 
                             </ul>
                         </nav>
                     </div>
                     <div class="col-md-6">
                         <div class="header-slider normal-slider">
+                           
                             <div class="header-slider-item">
-                                <img src="assets/img/slider-1.jpg" alt="Slider Image" />
+                                <img src="assets/img/shop.jpeg" alt="Slider Image" />
                                 
                             </div>
-                            <div class="header-slider-item">
-                                <img src="assets/img/slider-2.jpg" alt="Slider Image" />
-                                
-                            </div>
-                            <div class="header-slider-item">
-                                <img src="assets/img/slider-3.jpg" alt="Slider Image" />
-                                
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="col-md-3">
@@ -140,12 +132,14 @@ class Home extends React.Component{
         <div class="brand">
             <div class="container-fluid">
                 <div class="brand-slider">
-                    <div class="brand-item"><img src="assets/img/brand-1.png" alt=""/></div>
-                    <div class="brand-item"><img src="assets/img/brand-2.png" alt=""/></div>
-                    <div class="brand-item"><img src="assets/img/brand-3.png" alt=""/></div>
-                    <div class="brand-item"><img src="assets/img/brand-4.png" alt=""/></div>
-                    <div class="brand-item"><img src="assets/img/brand-5.png" alt=""/></div>
-                    <div class="brand-item"><img src="assets/img/brand-6.png" alt=""/></div>
+                    <div class="brand-item"><img src="assets/img/ya.jpg" alt=""/></div>
+                    <div class="brand-item"><img src="assets/img/co.jpg" alt=""/></div>
+                    <div class="brand-item"><img src="assets/img/zi.jpg" alt=""/></div>
+                    <div class="brand-item"><img src="assets/img/he.jpg" alt=""/></div>
+                    <div class="brand-item"><img src="assets/img/gif.jpg" alt=""/></div>
+                    <div class="brand-item"><img src="assets/img/fo.jpg" alt=""/></div>
+                    <div class="brand-item"><img src="assets/img/eva.jpg" alt=""/></div>
+                    <div class="brand-item"><img src="assets/img/Final Logo.png" alt=""/></div>
                 </div>
             </div>
         </div>
@@ -189,45 +183,45 @@ class Home extends React.Component{
                 <div class="row">
                     <div class="col-md-3">
                         <div class="category-item ch-400">
-                            <img src="assets/img/coco.jpg" />
+                            <img src="assets/img/jeba1.png" />
                             <a class="category-name" href="">
-                                <p>Some text goes here that describes the image</p>
+                                <p>Order your jebba now !</p>
                             </a>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="category-item ch-250">
-                            <img src="assets/img/category-4.jpg" />
+                            <img src="assets/img/Photo.png" />
                             <a class="category-name" href="">
-                                <p>Some text goes here that describes the image</p>
+                                <p> Order your photo frame now ! </p>
                             </a>
                         </div>
                         <div class="category-item ch-150">
-                            <img src="assets/img/category-5.jpg" />
+                            <img src="assets/img/Hera.png" />
                             <a class="category-name" href="">
-                                <p>Some text goes here that describes the image</p>
+                                <p>Order your roller now !</p>
                             </a>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="category-item ch-150">
-                            <img src="assets/img/category-6.jpg" />
+                            <img src="assets/img/Bracelet.png" />
                             <a class="category-name" href="">
-                                <p>Some text goes here that describes the image</p>
+                                <p>Order your bracelet now ! </p>
                             </a>
                         </div>
                         <div class="category-item ch-250">
-                            <img src="assets/img/category-7.jpg" />
+                            <img src="assets/img/chak.png" />
                             <a class="category-name" href="">
-                                <p>Some text goes here that describes the image</p>
+                                <p>Order your scarf scrunchie now ! </p>
                             </a>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="category-item ch-400">
-                            <img src="assets/img/rouge.jpg" />
+                            <img src="assets/img/Zinetna.png" />
                             <a class="category-name" href="">
-                                <p>Some text goes here that describes the image</p>
+                                <p>Order your decor frame now !</p>
                             </a>
                         </div>
                     </div>
@@ -382,7 +376,8 @@ class Home extends React.Component{
                                 </div>
                             </div>
                             <div class="product-price">
-                                <h3><span>TND</span>7</h3>
+                                <h3><span>TND</span>7
+                                </h3>
                                 <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Buy Now</a>
                             </div>
                         </div>
@@ -397,7 +392,7 @@ class Home extends React.Component{
                     <div class="col-md-6">
                         <div class="review-slider-item">
                             <div class="review-img">
-                                <img src="assets/img/review-1.jpg" alt="Image"/>
+                                <img src="assets/img/girl.jfif" alt="Image"/>
                             </div>
                             <div class="review-text">
                                 <h2>Islem mohsni  </h2>
@@ -417,7 +412,7 @@ class Home extends React.Component{
                     <div class="col-md-6">
                         <div class="review-slider-item">
                             <div class="review-img">
-                                <img src="assets/img/review-2.jpg" alt="Image"/>
+                                <img src="assets/img/boy.jfif" alt="Image"/>
                             </div>
                             <div class="review-text">
                                 <h2>Ahmed Arbi</h2>
@@ -438,11 +433,11 @@ class Home extends React.Component{
                     <div class="col-md-6">
                         <div class="review-slider-item">
                             <div class="review-img">
-                                <img src="assets/img/review-3.jpg" alt="Image"/>
+                                <img src="assets/img/gir.jfif" alt="Image"/>
                             </div>
                             <div class="review-text">
                                 <h2>Maram Hamdi</h2>
-                                <h3>Profession</h3>
+                                <h3>medical student</h3>
                                 <div class="ratting">
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>

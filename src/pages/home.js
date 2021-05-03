@@ -49,7 +49,7 @@ class Home extends React.Component{
                     <div class="col-md-3">
                         <div class="logo">
                             <a href="index.html">
-                                <img src="/assets/img/logo final.png" alt="Logo" />
+                                <img src="/assets/img/logofi.jpg" alt="Logo" />
                             </a>
                         </div>
                     </div>

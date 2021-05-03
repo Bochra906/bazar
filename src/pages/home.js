@@ -17,7 +17,7 @@ class Home extends React.Component{
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
                             <a href="index.html" class="nav-item nav-link active">Home</a>
-                            <a href="product-list.html" class="nav-item nav-link">Products</a>
+                            <a href="products" class="nav-item nav-link">Products</a>
                             <a href="product-detail.html" class="nav-item nav-link">Product Detail</a>
                             <a href="cart.html" class="nav-item nav-link">Cart</a>
                             <a href="checkout.html" class="nav-item nav-link">Checkout</a>
@@ -49,7 +49,7 @@ class Home extends React.Component{
                     <div class="col-md-3">
                         <div class="logo">
                             <a href="index.html">
-                                <img src="/assets/img/logo final.png" alt="Logo" />
+                                <img src="/assets/img/logofi.jpg" alt="Logo" />
                             </a>
                         </div>
                     </div>
@@ -183,7 +183,7 @@ class Home extends React.Component{
                 <div class="row">
                     <div class="col-md-3">
                         <div class="category-item ch-400">
-                            <img src="assets/img/jeba1.png" />
+                            <img src="assets/img/lella.png" />
                             <a class="category-name" href="">
                                 <p>Order your jebba now !</p>
                             </a>
@@ -197,7 +197,7 @@ class Home extends React.Component{
                             </a>
                         </div>
                         <div class="category-item ch-150">
-                            <img src="assets/img/Hera.png" />
+                            <img src="assets/img/roller.png" />
                             <a class="category-name" href="">
                                 <p>Order your roller now !</p>
                             </a>
@@ -205,7 +205,7 @@ class Home extends React.Component{
                     </div>
                     <div class="col-md-3">
                         <div class="category-item ch-150">
-                            <img src="assets/img/Bracelet.png" />
+                            <img src="assets/img/yed.png" />
                             <a class="category-name" href="">
                                 <p>Order your bracelet now ! </p>
                             </a>
@@ -219,7 +219,7 @@ class Home extends React.Component{
                     </div>
                     <div class="col-md-3">
                         <div class="category-item ch-400">
-                            <img src="assets/img/Zinetna.png" />
+                            <img src="assets/img/decor.png" />
                             <a class="category-name" href="">
                                 <p>Order your decor frame now !</p>
                             </a>
@@ -482,16 +482,8 @@ class Home extends React.Component{
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-widget">
-                            <h2>Company Info</h2>
-                            <ul>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms & Condition</a></li>
-                            </ul>
-                        </div>
-                    </div>
+                    
+                  
 
                     
                 </div>
